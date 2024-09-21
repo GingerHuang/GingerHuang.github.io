@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+============
 * M.S. in King's College London, 2020-2021
 * B.Eng. in Shandong University, 2015-2019
 
 # Work experience
-======
+===========
+
 ## Research Assistant   Nanjing University Medical School   Sept 2022-present
 * Responsibility:  I finished four projects, conducted literature reviews, drafted the publication writing in the postdoctoral centre, provided consultation on modelling to medical graduate students (without machine learning background), and supported departmental administrative tasks
 * Deep Learning: I designed the psychological testing platform in collaboration with the Psychiatry Department, including measuring and analysing EEG, scales and facial expressions data by combining ARIMA and conv-LSTM to identify patterns of anxiety and depression patients
@@ -40,24 +41,24 @@ Education
 * Integral Transformation
 * Differential Topology
 
-Publications
+# Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+# Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+# Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+# Service and leadership
 ======
 * Currently signed in to 43 different slack teams
