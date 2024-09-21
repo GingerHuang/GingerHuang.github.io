@@ -18,7 +18,7 @@ Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
-  * Duties includes: Updates and improvements to template
+  * Duties include: Updates and improvements to the template
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
@@ -33,12 +33,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning & Artificial Intelligence
+  * SVM 
+  * CNNs
+  * RNNs
+  * Transformer
+* Stochastic Differential Equation
+* Advanced Statistics
+* Integral Transformation
+* Differential Topology
 
 Publications
 ======
