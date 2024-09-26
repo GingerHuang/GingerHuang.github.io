@@ -40,6 +40,7 @@ with Tongji University   Jan 2024-present
   * Transformer
 * Stochastic Differential Equation
 * Advanced Statistics
+* Graph Theory
 * Integral Transformation
 * Differential Topology
 
