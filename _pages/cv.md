@@ -41,6 +41,7 @@ with Tongji University   Jan 2024-present
 * Stochastic Differential Equation
 * Advanced Statistics
 * Graph Theory
+* Measure & Categorty Theory
 * Integral Transformation
 * Differential Topology
 
